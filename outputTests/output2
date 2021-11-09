@@ -1,0 +1,25 @@
+Container is store 24 animals:
+Bird: name fsdfrewrerwesdfdgdf , weight  645 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Beast: name ddddd , weight  323 , diet  Diet.PREDATOR
+Fish: name sdsdsd , weight  125 , habitat  Habitat.LAKE
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Bird: name fsdfsdfdgdf , weight  675 , isMigration  False
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Fish: name sdsdsd , weight  125 , habitat  Habitat.SEA
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Bird: name fsdfsdfdgdf , weight  657 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Bird: name fsddsdsdsfsdfdgdf , weight  234 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Bird: name fsdfsdfdgdf , weight  45 , isMigration  False
+Fish: name ewtertt , weight  125 , habitat  Habitat.OCEAN
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  True
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Bird: name sdf , weight  234 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Beast: name rrrrrr , weight  34 , diet  Diet.PREDATOR

@@ -1,18 +1,21 @@
-from extender import *
 
 class Animal:
-    def __init__(self, *args):
-        self._name = ''
-        self._weight = 0
+    def __init__(self, name, weight):
+        self.name = name
+        self.weight = weight
 
 
     def Print(self):
         pass
 
 
-    def Write(self, ostream):
+    def FilePrint(self, ostream):
         pass
 
 
-    def Perimeter(self):
-        pass
+    def SomeParameter(self):
+        sum: int = 0
+        for item in self.name:
+            sum += ord(item)
+        return sum / self.weight
+

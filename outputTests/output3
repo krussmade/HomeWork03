@@ -1,0 +1,23 @@
+Container is store 20 animals:
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.INSECTIVORES
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.INSECTIVORES
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Beast: name sdfsdfsdf , weight  1235431534 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Beast: name sdfsdfsdf , weight  3453345435 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.LAKE
+Beast: name sdfsdfsdf , weight  1245645645645634 , diet  Diet.INSECTIVORES
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.LAKE
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.HERBIVOROUS
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+
+Process finished with exit code 0

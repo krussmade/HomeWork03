@@ -1,0 +1,27 @@
+Container is store 24 animals:
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  True
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+Beast: name sdfsdfsdf , weight  1234 , diet  Diet.PREDATOR
+Bird: name fsdfsdfdgdf , weight  234 , isMigration  False
+Fish: name ewtertt , weight  125 , habitat  Habitat.RIVER
+
+Process finished with exit code 0
